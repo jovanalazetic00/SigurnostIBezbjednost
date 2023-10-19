@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\SBES-Tim14\Bank\Manager\bin\Debug\Manager.dll
+C:\Users\User\Desktop\SBES-Tim14\Bank\Manager\bin\Debug\Manager.pdb
+C:\Users\User\Desktop\SBES-Tim14\Bank\Manager\bin\Debug\Contracts.dll
+C:\Users\User\Desktop\SBES-Tim14\Bank\Manager\bin\Debug\Contracts.pdb
+C:\Users\User\Desktop\SBES-Tim14\Bank\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SBES-Tim14\Bank\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SBES-Tim14\Bank\Manager\obj\Debug\Manager.csproj.CopyComplete
+C:\Users\User\Desktop\SBES-Tim14\Bank\Manager\obj\Debug\Manager.dll
+C:\Users\User\Desktop\SBES-Tim14\Bank\Manager\obj\Debug\Manager.pdb

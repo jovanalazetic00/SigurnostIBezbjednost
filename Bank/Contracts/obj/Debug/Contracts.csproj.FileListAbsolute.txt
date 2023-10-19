@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\SBES-Tim14\Bank\Contracts\bin\Debug\Contracts.dll
+C:\Users\User\Desktop\SBES-Tim14\Bank\Contracts\bin\Debug\Contracts.pdb
+C:\Users\User\Desktop\SBES-Tim14\Bank\Contracts\obj\Debug\Contracts.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SBES-Tim14\Bank\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SBES-Tim14\Bank\Contracts\obj\Debug\Contracts.dll
+C:\Users\User\Desktop\SBES-Tim14\Bank\Contracts\obj\Debug\Contracts.pdb
